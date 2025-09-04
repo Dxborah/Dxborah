@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a research paper in path planning using heuristics for autonomous navigation.**
 
-- 🌱 I’m currently learning **MediaPipe, OpenCv**
+- 🌱 I’m currently learning **OpenCv**
 
 - 📫 How to reach me **deborah.sinishaw@mail.mcgill.ca**
 
